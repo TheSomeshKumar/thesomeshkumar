@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-2394
-Fork on GitHub
-391
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Somesh Kumar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
