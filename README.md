@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Somesh Kumar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/thesomeshkumar" target="blank"><img src="https://img.shields.io/twitter/follow/thesomeshkumar?logo=twitter&style=for-the-badge" alt="thesomeshkumar" /></a> </p>
-
-- 📄 Know about my experiences [https://thesomeshkumar.github.io/thesomeshkumar/](https://thesomeshkumar.github.io/thesomeshkumar/)
+- 📄 Know about my experiences -> [https://thesomeshkumar.github.io/thesomeshkumar/](https://thesomeshkumar.github.io/thesomeshkumar/)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
